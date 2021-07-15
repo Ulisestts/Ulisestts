@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @Ulisestts
 - i am currentlty learing the "joys" and wonders of writing code for arduinos especially since i want to make a really cool controller with a screen
 - I don't speak README.MD
+- i will master how to use this very nice website to share my gnu code
+- anyways
+- digitalWrite(See you later,HIGH);
